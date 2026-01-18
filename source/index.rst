@@ -23,6 +23,7 @@ Table of Contents
 
      intro
      security
+     menu_reference
      releases
      be
      setup
